@@ -74,8 +74,8 @@
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-21" value="返回code=101" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-24" value="提示无法优化航线，不能执行" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-24" value="航线间存在碰撞风险无法优化航线，不能执行" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="390" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
