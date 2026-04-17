@@ -36,7 +36,7 @@
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-3" target="o31ztoQ0SP9ou45Vj1Ae-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-3" value="code=1" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-3" value="返回code=1" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-8" value="正常任务下发" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
@@ -44,9 +44,6 @@
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-11" value="" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="35" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Garamond; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;航线间无碰撞风险&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="470" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-14" value="航线间存在碰撞风险" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="340" width="130" height="30" as="geometry" />
