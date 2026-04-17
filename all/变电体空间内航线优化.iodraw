@@ -93,7 +93,7 @@
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-31" target="o31ztoQ0SP9ou45Vj1Ae-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o31ztoQ0SP9ou45Vj1Ae-39">
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-40" value="不存在碰撞风险" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o31ztoQ0SP9ou45Vj1Ae-39">
           <mxGeometry x="-0.045" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
