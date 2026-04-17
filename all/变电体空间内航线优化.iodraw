@@ -22,7 +22,7 @@
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-1" target="o31ztoQ0SP9ou45Vj1Ae-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o31ztoQ0SP9ou45Vj1Ae-10">
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-16" value="航线间无碰撞风险" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o31ztoQ0SP9ou45Vj1Ae-10">
           <mxGeometry x="0.04" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
