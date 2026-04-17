@@ -42,8 +42,8 @@
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-8" value="正常任务下发" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-11" value="" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="35" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-11" value="获取体空间" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="35" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-14" value="航线间存在碰撞风险" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="340" width="130" height="30" as="geometry" />
