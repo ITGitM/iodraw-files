@@ -35,7 +35,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-1" value="skill" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-1" value="&lt;span style=&quot;color: rgb(6, 125, 23); font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt; background-color: rgb(199, 237, 204);&quot;&gt;航线碰撞优化并生成新航线&lt;/span&gt;skill" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="170" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-3" target="o31ztoQ0SP9ou45Vj1Ae-8">
