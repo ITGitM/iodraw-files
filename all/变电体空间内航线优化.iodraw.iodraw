@@ -36,7 +36,7 @@
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-3" value="返回flag=1" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-8" value="&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; text-align: start; background-color: oklab(0.22559 -0.00131416 -0.00642684 / 0.05);&quot;&gt;原航线无碰撞，可直接执行原航线&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-8" value="正常任务下发执行" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="587.5" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-14" value="航线间存在碰撞风险" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -73,7 +73,7 @@
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-21" value="返回flag=101" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-24" value="航线间存在碰撞风险无法优化航线，不能执行" style="whiteSpace=wrap;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-24" value="航线间存在碰撞风险且无法优化航线，不能执行" style="whiteSpace=wrap;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="568.75" y="285" width="157.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-31" target="o31ztoQ0SP9ou45Vj1Ae-34">
@@ -129,7 +129,7 @@
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-46" target="o31ztoQ0SP9ou45Vj1Ae-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-46" value="返回flag=2&lt;span style=&quot;background-color: initial;&quot;&gt;和航线code&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-46" value="返回flag=0和航线code" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="35" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-49" target="o31ztoQ0SP9ou45Vj1Ae-51">
