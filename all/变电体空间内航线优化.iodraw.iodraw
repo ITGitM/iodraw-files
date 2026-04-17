@@ -39,11 +39,6 @@
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-8" value="正常任务下发执行" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="587.5" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="o31ztoQ0SP9ou45Vj1Ae-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="390" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-14" value="航线间存在碰撞风险" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="87.5" y="240" width="130" height="30" as="geometry" />
         </mxCell>
@@ -58,6 +53,14 @@
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-23" value="体空间不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o31ztoQ0SP9ou45Vj1Ae-22">
           <mxGeometry x="-0.0828" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-17" target="o31ztoQ0SP9ou45Vj1Ae-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o31ztoQ0SP9ou45Vj1Ae-53">
+          <mxGeometry x="0.0133" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
