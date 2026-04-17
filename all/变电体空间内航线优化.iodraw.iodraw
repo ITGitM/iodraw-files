@@ -27,8 +27,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-17" target="o31ztoQ0SP9ou45Vj1Ae-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-30" value="体空间存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o31ztoQ0SP9ou45Vj1Ae-12">
           <mxGeometry x="-0.0306" y="1" relative="1" as="geometry">
@@ -47,11 +49,10 @@
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-8" value="正常任务下发执行" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="587.5" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-11" target="o31ztoQ0SP9ou45Vj1Ae-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-11" value="将航线分为体外航段和体内航段" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="22.5" y="390" width="145" height="100" as="geometry" />
+        <mxCell id="o31ztoQ0SP9ou45Vj1Ae-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="o31ztoQ0SP9ou45Vj1Ae-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="490" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-14" value="航线间存在碰撞风险" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="87.5" y="240" width="130" height="30" as="geometry" />
@@ -80,7 +81,7 @@
           <mxGeometry x="367.5" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-24" value="航线间存在碰撞风险无法优化航线，不能执行" style="whiteSpace=wrap;fontSize=18;fontFamily=Garamond;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="567.5" y="290" width="160" height="60" as="geometry" />
+          <mxGeometry x="568.75" y="285" width="157.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o31ztoQ0SP9ou45Vj1Ae-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o31ztoQ0SP9ou45Vj1Ae-31" target="o31ztoQ0SP9ou45Vj1Ae-34">
           <mxGeometry relative="1" as="geometry" />
